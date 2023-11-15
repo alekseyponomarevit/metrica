@@ -16,7 +16,6 @@ body {
 
 h1 { 
     width: 956px;
-    height: 120px;
     color: #121212;
     font-size: 60px;
     font-style: normal;
@@ -59,7 +58,6 @@ h1 {
 
 h2 {
     width: 51px;
-    height: 25px;
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
@@ -87,7 +85,6 @@ h2 {
 a {
     color: #FFF;
     width: 255px;
-    height: 67px;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
