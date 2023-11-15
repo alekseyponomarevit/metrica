@@ -84,16 +84,15 @@ h2 {
 
 a {
     color: #FFF;
-    width: 255px;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
     letter-spacing: -0.6px;
     text-decoration: none;
-    display: block;
+    display: inline-block;
     border: 1px solid #AD1818;
     text-align: center;
-    line-height: 67px;
+    padding: 20px 40px;
     border-radius: 5px;
     background: #AD1818;
     margin-top: 30px;
